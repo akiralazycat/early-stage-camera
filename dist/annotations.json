@@ -1,0 +1,299 @@
+{
+  "asset": "daguerreotype_giroux_1839",
+  "title_ja": "Giroux ダゲレオタイプ・カメラ (1839)",
+  "title_en": "Giroux Daguerreotype Camera (1839)",
+  "clips": [
+    {
+      "name": "00_Idle",
+      "frame_start": 1,
+      "frame_end": 4
+    },
+    {
+      "name": "10_Explode",
+      "frame_start": 9,
+      "frame_end": 69
+    },
+    {
+      "name": "11_Reassemble",
+      "frame_start": 74,
+      "frame_end": 134
+    },
+    {
+      "name": "20_OpticalPath_Show",
+      "frame_start": 139,
+      "frame_end": 184
+    },
+    {
+      "name": "21_OpticalPath_Hide",
+      "frame_start": 189,
+      "frame_end": 219
+    },
+    {
+      "name": "30_Workflow_InsertHolder",
+      "frame_start": 224,
+      "frame_end": 284
+    },
+    {
+      "name": "31_Workflow_PullDarkSlide",
+      "frame_start": 289,
+      "frame_end": 319
+    },
+    {
+      "name": "32_Workflow_RemoveCap",
+      "frame_start": 324,
+      "frame_end": 348
+    },
+    {
+      "name": "33_Workflow_Expose",
+      "frame_start": 353,
+      "frame_end": 443
+    },
+    {
+      "name": "34_Workflow_ReplaceCap",
+      "frame_start": 448,
+      "frame_end": 472
+    },
+    {
+      "name": "35_Workflow_PushDarkSlide",
+      "frame_start": 477,
+      "frame_end": 507
+    },
+    {
+      "name": "36_Workflow_RemoveHolder",
+      "frame_start": 512,
+      "frame_end": 572
+    },
+    {
+      "name": "40_Chem_Polish",
+      "frame_start": 577,
+      "frame_end": 622
+    },
+    {
+      "name": "41_Chem_Iodize",
+      "frame_start": 627,
+      "frame_end": 687
+    },
+    {
+      "name": "42_Chem_Develop_Hg",
+      "frame_start": 692,
+      "frame_end": 782
+    },
+    {
+      "name": "43_Chem_Fix",
+      "frame_start": 787,
+      "frame_end": 847
+    },
+    {
+      "name": "44_Chem_Reveal",
+      "frame_start": 852,
+      "frame_end": 897
+    }
+  ],
+  "annotations": [
+    {
+      "id": "outer_box",
+      "position": [
+        0.0,
+        0.16,
+        0.2599999952316284
+      ],
+      "ja": "外箱(マホガニー)。前面にレンズボードを保持し、内箱を摺動可能に受ける二重木箱構造の外側半分。",
+      "en": "Outer mahogany box. Holds the lens board and slidingly receives the inner box.",
+      "sources": [
+        "Gernsheim 1969 pp.65-72",
+        "George Eastman Museum object record"
+      ],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "lens_assembly",
+      "position": [
+        0.0,
+        0.0,
+        0.3599999904632568
+      ],
+      "ja": "Chevalier 製アクロマート(凸クラウン+凹フリント)。FL≈380mm、f/14。1839年Giroux付属仕様。",
+      "en": "Chevalier achromatic doublet (convex crown + concave flint), FL≈380mm, f/14.",
+      "sources": [
+        "Eder 1945 §VI",
+        "Pohl 1854 retrospective"
+      ],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "waterhouse_stop",
+      "position": [
+        0.0,
+        0.02,
+        0.3319999873638153
+      ],
+      "ja": "固定絞り(Waterhouse 型)。f/14 相当の開口で、当時としては相対的に大きな絞り値だが感光板の鈍さを補う。",
+      "en": "Fixed Waterhouse-style stop giving f/14 — relatively slow but the period's plates demanded it.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "lens_cap",
+      "position": [
+        0.0,
+        0.05,
+        0.3579999804496765
+      ],
+      "ja": "真鍮スイベル式キャップ。機械式シャッターが無い1839年は、これを手で回して開閉するのが「露光」だった。",
+      "en": "Brass swivel cap — the only shutter in 1839; manually rotated to open/close the exposure.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "makers_plate",
+      "position": [
+        0.0,
+        -0.10999999940395355,
+        0.26600000262260437
+      ],
+      "ja": "Giroux 製造銘板。「Daguerréotype / Alphonse Giroux et Cie / Rue du Coq-Saint-Honoré No.7 à Paris」が刻印される。",
+      "en": "Giroux maker's plate engraved with the Paris workshop address.",
+      "sources": [
+        "George Eastman Museum collection record"
+      ],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "daguerre_seal",
+      "position": [
+        0.0949999988079071,
+        -0.10999999940395355,
+        0.26600000262260437
+      ],
+      "ja": "Daguerre の赤蝋封印。Giroux 製を Daguerre 本人が認証した『公式機』の印で、反偽造の役割を果たした。",
+      "en": "Daguerre's red wax anti-forgery seal authenticating the genuine Giroux unit.",
+      "sources": [
+        "Buerger 1989 ch.2"
+      ],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "inner_box",
+      "position": [
+        0.0,
+        0.15,
+        -0.13500000536441803
+      ],
+      "ja": "内箱。外箱内を前後にスライドさせて焦点を合わせる。レンズ-像距離 ≈ FL(無限遠時)。",
+      "en": "Inner sliding box used for focusing (image distance ≈ FL at infinity).",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "ground_glass",
+      "position": [
+        0.0,
+        0.0,
+        -0.2669999945163727
+      ],
+      "ja": "スリ硝子焦点板。倒立像を結像させて構図とピントを確認した後、ホルダーに差し替える。",
+      "en": "Ground-glass focusing screen for composition; swapped with the plate holder before exposure.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "plate_holder",
+      "position": [
+        0.5,
+        0.0,
+        -0.2819999945163727
+      ],
+      "ja": "プレートホルダー。研磨済み銀板を差し込み、ダークスライドで遮光して運搬する木製アセンブリ。",
+      "en": "Plate holder; wooden assembly carrying the polished silver plate behind a dark slide.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "dark_slide",
+      "position": [
+        0.5,
+        0.08,
+        -0.2769999897480011
+      ],
+      "ja": "ダークスライド。露光時のみ引き抜き、再挿入して感光板を遮光する。",
+      "en": "Dark slide — withdrawn only during exposure to admit light to the plate.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "silver_plate",
+      "position": [
+        0.5,
+        0.0,
+        -0.25699999928474426
+      ],
+      "ja": "銀メッキ銅板。研磨 → ヨウ素感光 → 露光 → 水銀現像 → 定着の5工程を経て1点物の銀像写真となる。",
+      "en": "Silver-on-copper plate; undergoes polish → iodine → expose → mercury develop → fix.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    },
+    {
+      "id": "iodine_box",
+      "position": [
+        0.5999999642372131,
+        -0.015000009536743159,
+        -0.0
+      ],
+      "ja": "ヨウ素感光箱。底のヨウ素結晶からの蒸気で板表面に AgI 層を生成。",
+      "en": "Iodine sensitizing box; iodine crystal vapor forms an AgI layer on the plate surface.",
+      "sources": [],
+      "chemistry": "2 Ag(s) + I₂(g) → 2 AgI(s)",
+      "safety": "ヨウ素蒸気は粘膜刺激性。換気必須。"
+    },
+    {
+      "id": "mercury_box",
+      "position": [
+        0.8999999761581421,
+        0.014999995827674861,
+        -0.0
+      ],
+      "ja": "水銀現像箱。アルコールランプで水銀を約60℃に加熱、蒸気で潜像を顕在化する。",
+      "en": "Mercury developing box; spirit lamp heats Hg to ~60°C; vapor reveals the latent image.",
+      "sources": [],
+      "chemistry": "Hg(g) + Ag⁰(露光部) → Hg·Ag アマルガム",
+      "safety": "⚠ 水銀蒸気は強力な中枢神経毒。19世紀のダゲレオタイピストには水銀中毒の事例が多数報告。現代では絶対に再現してはならない。"
+    },
+    {
+      "id": "fix_tray",
+      "position": [
+        1.2200000286102295,
+        -0.09500001072883606,
+        -0.0
+      ],
+      "ja": "定着トレイ。当初は食塩水、Herschel の提案(1839末)以降はチオ硫酸ナトリウムで未反応 AgI を除去。",
+      "en": "Fixing tray; salt brine (early) → hyposulfite of soda (Herschel, late 1839) removes unreacted AgI.",
+      "sources": [],
+      "chemistry": "AgI + 2 Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaI",
+      "safety": "チオ硫酸ナトリウムは比較的安全だが、酸と混合すると SO₂ を発生する。"
+    },
+    {
+      "id": "tripod",
+      "position": [
+        0.0,
+        -0.15,
+        -0.0
+      ],
+      "ja": "三脚。長時間露光に必須の固定要素。当時は重い専用木製三脚が用いられた。",
+      "en": "Wooden tripod — essential for the multi-minute exposures of the era.",
+      "sources": [],
+      "chemistry": null,
+      "safety": null
+    }
+  ]
+}

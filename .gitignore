@@ -1,0 +1,6 @@
+.DS_Store
+*.blend1
+.claude/
+__pycache__/
+*.pyc
+dist/textures/_boulevard_src.jpg
